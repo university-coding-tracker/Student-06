@@ -1,2 +1,3 @@
 # Student-06
-Started API integration
+Started API integration<br>
+Fetching data from REST API
